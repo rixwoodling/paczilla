@@ -1,6 +1,17 @@
 # paczilla
 take average columns from PACS csv summary files and merge out to new csv
 
-![image](https://user-images.githubusercontent.com/7823147/185263995-6296e53c-1a1d-4449-bb04-d8e041bfbd0d.png)
+```
+    Name    	   r1	     r2	     r3	    avg
+    pazalcli	 0.307	 0.308	 0.312	 0.309
+    apclzial	 0.357	 0.350	 0.356	 0.354
+    clipzaal	 1.628	 1.616	 1.611	 1.618
+    zlpiaacl	 0.274	 0.270	 0.272	 0.272
+    izlacapl	14.384	13.934	14.203	14.174
+    laplczia	 2.309	 2.317	 2.304	 2.310
+    llziaapc	 0.004	 0.003	 0.005	 0.004
+    aizcllpa	 6.846	 6.952	 7.103	 6.967
+    
+```
 
 
