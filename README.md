@@ -1,5 +1,6 @@
-# paczilla
-take average columns from PACS csv summary files and merge out to new csv
+# PACZILLA
+
+strip numerical columns from csv files, calculate out an average column, output to new csv.
 
 ```
     Name    	   r1	   r2	   r3	  avg
