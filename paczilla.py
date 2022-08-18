@@ -71,7 +71,7 @@ def paths():
 
             n = n + 1
             c = c + 1
-# --------->|
+
             if not r2 or not r3:
                 pass
             else:                    
@@ -95,6 +95,5 @@ def paths():
 if __name__ == "__main__":
     paths()
 
-#    
-    
+
     
